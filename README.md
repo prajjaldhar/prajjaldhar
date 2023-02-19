@@ -1,5 +1,5 @@
-### Hi there 👋, it's Prajjal!!!
-#### Machine Learning Enthusiast | Web Developer | Python Developer
+# Hi there 👋, it's Prajjal!!!
+## Machine Learning Enthusiast | Web Developer | Python Developer
 ![Machine Learning Enthusiast | Web Developer | Python Developer](https://media.licdn.com/dms/image/D4E16AQFoH8wBZmMIOA/profile-displaybackgroundimage-shrink_350_1400/0/1671638778314?e=1682553600&v=beta&t=vYS_u-wYAWClASmWdDmMpXqJ3KIjtKi6uiGMaDHKL7E)
 
 I learned that the process of trial and error can eventually lead to success, and by taking risks and not fearing failure, we can acquire new skills and develop our problem-solving abilities through this realization, I found motivation and reassurance in the concept that, if we keep on pushing forward despite the failures and hardships, our dreams of success can eventually come true. This reinforced my conviction that anything is achievable with hard work and dedication, no matter how daunting the task may seem. In the end, I was able to take away from this experience that hard work, determination, and perseverance are all essential components of achieving success in any field.
