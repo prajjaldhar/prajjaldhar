@@ -16,3 +16,6 @@ I learned that trial and error can lead to success, and by taking risks and not 
 - 👯 I’ve recently worked with sparks foundation, Intershala , CodingNinja. 
 
 - 🙂 Words that describe me - Self-motivated, Focused, Hardworking & Perfectionist.
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajjaldhar&theme=radical)
