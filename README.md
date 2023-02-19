@@ -1,3 +1,6 @@
+#Hi there, it's Prajjal 👋 
+#Machine Learning Enthusiast | Web Developer | Python Developer .
+
 - 👋 Hello, This is @prajjaldhar.
 - 👀 I’m interested in Data Science.
 - 🌱I'm a Btech Electronics and Communication Engineering student.
