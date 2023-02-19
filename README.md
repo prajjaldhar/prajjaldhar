@@ -1,5 +1,5 @@
-#Hi there, it's Prajjal 👋 
-#Machine Learning Enthusiast | Web Developer | Python Developer .
+# Hi there, it's Prajjal 👋 
+# Machine Learning Enthusiast | Web Developer | Python Developer .
 
 - 👋 Hello, This is @prajjaldhar.
 - 👀 I’m interested in Data Science.
