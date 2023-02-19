@@ -1,3 +1,5 @@
+![MasterHead](https://miro.medium.com/max/1400/1*g__jiesLRIfCRefVG69Pfw.gif)
+
 # Hi there 👋, it's Prajjal!!!
 ## Machine Learning Enthusiast | Web Developer | Python Developer
 ![Machine Learning Enthusiast | Web Developer | Python Developer](https://media.licdn.com/dms/image/D4E16AQFoH8wBZmMIOA/profile-displaybackgroundimage-shrink_350_1400/0/1671638778314?e=1682553600&v=beta&t=vYS_u-wYAWClASmWdDmMpXqJ3KIjtKi6uiGMaDHKL7E)
