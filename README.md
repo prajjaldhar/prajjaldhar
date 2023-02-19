@@ -26,8 +26,3 @@ Skills: ML / DL / NLP / REACT JS / JS / HTML / CSS / NODE JS /
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/prajjaldhar&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/prajjaldhar)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/prajjaldhar)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/prajjaldhar)  
